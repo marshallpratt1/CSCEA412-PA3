@@ -17,7 +17,7 @@ NUM_GENERATIONS = 1000
 #set this to the desired population size
 POPULATION_SIZE = 100
 #set this to the desired number of cities
-NUM_CITIES = 10
+NUM_CITIES = 25
 #Number of elites to carry over and worsts to get rid of
 ELITE_SIZE, WORST_SIZE = 1, 1
 #set the number of parents to select for breeding
